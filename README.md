@@ -126,7 +126,6 @@ Current limitations of the project include:
 
 * Single EC2 instance deployment
 * No load balancer
-* No HTTPS configuration
 * Single-AZ database deployment
 
 These limitations were acceptable because the main goal of the project was to learn and demonstrate Infrastructure as Code using Terraform.
